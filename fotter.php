@@ -1,5 +1,6 @@
+</body>
 <!-- Footer -->
-<footer class="bg-dark text-center text-white">
+<footer class="bg-dark text-center text-white " id="footer">
     <!-- Grid container -->
     <div class="container p-4">
         <!-- Section: Social media -->
@@ -76,6 +77,5 @@
     <!-- Copyright -->
 </footer>
 <!-- Footer -->
-</body>
 
 </html>

@@ -1,3 +1,5 @@
 <?php include "head.php" ?>
-<h1>este es el contacto</h1>
+
+<h1>pagina en desarrollo</h1>
+
 <?php include "fotter.php" ?>

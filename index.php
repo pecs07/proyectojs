@@ -3,8 +3,8 @@
 <br>
 <br>
 <div class="container">
-     <div class="col-md-12 row">
-          <div class="col-md-4">
+     <div class="col-md-12 row" id="resultados" style="background-color: #19070B;">
+          <!--    <div class="col-md-4">
                <div class="card" style="width: 18rem;">
                     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/25.png" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -33,11 +33,8 @@
                          <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                </div>
-          </div>
+          </div>-->
      </div>
 </div>
-<br>
-<br>
-<br>
-
+<script src="js/main.js"></script>
 <?php include "fotter.php" ?>
